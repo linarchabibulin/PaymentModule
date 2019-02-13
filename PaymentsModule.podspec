@@ -18,5 +18,6 @@ Pod::Spec.new do |s|
   s.dependency  "SwiftTryCatch"
   s.dependency "MobilePay-AppSwitch-SDK"
   s.dependency 'ePay'
+  s.dependency 'DIBS'
 
 end
