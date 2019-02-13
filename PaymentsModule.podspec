@@ -16,5 +16,8 @@ Pod::Spec.new do |s|
 
   s.dependency  "Alamofire"
   s.dependency  "SwiftTryCatch"
+  s.dependency "MobilePay-AppSwitch-SDK"
+  s.dependency "ePay', :git => 'https://github.com/cheskapac/epay-ios-sdk-lib.git"
+  s.dependency "DIBS', :git => 'https://github.com/linarchabibulin/DibsPayment.git"
 
 end
